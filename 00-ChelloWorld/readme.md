@@ -1,1 +1,1 @@
-
+Como compilador utilize gcc.
