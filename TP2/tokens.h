@@ -1,0 +1,9 @@
+typedef enum{
+    FDT,
+    TK_IDENTIFICADOR,
+    TK_NUMERO,
+    TK_PALABRA_RESERVADA,
+    TK_OPERADOR,
+    TK_CARAC_PUNTUACION,
+    TK_FUNCION,
+}token;

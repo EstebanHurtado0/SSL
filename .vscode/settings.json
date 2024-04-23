@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "calc.h": "c",
+        "type_traits": "c"
+    }
+}
